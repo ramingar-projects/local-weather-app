@@ -1,3 +1,6 @@
 [submodule "docs/freecodecamp-show-the-local-weather"]
 	path = docs/freecodecamp-show-the-local-weather
 	url = https://github.com/ramingar/freecodecamp-show-the-local-weather
+[submodule "docs"]
+	path = docs
+	url = https://github.com/ramingar/freecodecamp-show-the-local-weather
